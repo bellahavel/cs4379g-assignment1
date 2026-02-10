@@ -3,6 +3,8 @@
 This repository contains my Assignment 1 submission for CS4379G (Data Analysis & Visualization).
 It demonstrates Git/GitHub workflow (branches + PRs) and includes a notebook-based data analysis.
 
+GitHub repo: https://github.com/bellahavel/cs4379g-assignment1
+
 ## How to run
 
 1. Create and activate a virtual environment, then install dependencies:
